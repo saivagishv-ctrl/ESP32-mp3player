@@ -1,0 +1,1 @@
+This is my first ever pcb project, I used AI to ask questions about the KiCAD ui, and to recommend me a specifec model number when i gave it constraints for what i wanted in a component, like the charging module for the battery with passthrough and voltage detection
